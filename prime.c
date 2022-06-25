@@ -16,10 +16,10 @@ int main()
     }
     
     if (j == 1)
-        printf("Not Prime");
+        printf("%d is not a prime number.", num);
     
     else
-        printf("Prime");
+        printf("%d is a prime number.", num);
 
     getch();
     return 0;
