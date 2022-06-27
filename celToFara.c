@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 
 int main()
 {
@@ -12,6 +11,5 @@ int main()
 
     printf("In Fahrenheit --> %.2f", fara);    
 
-    getch();
     return 0;
 }
