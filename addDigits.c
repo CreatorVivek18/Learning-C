@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 
 int main()
 {
@@ -16,6 +15,5 @@ int main()
 
     printf("The sum is %d", sum);
 
-    getch();
     return 0;
 }
