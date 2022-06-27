@@ -11,7 +11,7 @@ int main()
         j = n%10;
 
         if (j!=0 && j!=1) {
-            printf("not binary bro");
+            printf("Not Binary");
             break;
         }
 
@@ -19,7 +19,7 @@ int main()
     }
 
     if (n==0) {
-        printf("It's Binray ;)");
+        printf("It's Binary");
     }
 
     return 0;
