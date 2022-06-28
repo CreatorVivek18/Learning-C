@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 
 int main()
 {
@@ -19,8 +18,5 @@ int main()
         printf("%d", arr[j]);
     }
     
-        
-
-    getch();
     return 0;
 }
