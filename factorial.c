@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 
 int main()
 {
@@ -15,6 +14,5 @@ int main()
     
     printf("Factorial of %d is %d", num, j);
 
-    getch();
     return 0;
 }
