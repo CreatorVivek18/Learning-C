@@ -16,19 +16,16 @@ int main()
     if (a>b && a>c)
     {   
         printf("%d is the greatest", a);
-        /* code */
     }
     
     else if (b>a && b>c)
     {   
         printf("%d is the greatest", b);
-        /* code */
     }
     
     else if (c>a && c>a)
     {   
         printf("%d is the greatest", c);
-        /* code */
     }
     
     else {
