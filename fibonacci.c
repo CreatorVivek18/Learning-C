@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <conio.h> 
+
 int main()
 {
   int n, first = 0, second = 1, result;
@@ -20,6 +20,7 @@ int main()
     }
     printf("%d\n", result);
   } 
+  
   return 0;
 } 
 
