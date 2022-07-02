@@ -9,7 +9,7 @@ int main()
 
     cel = ((fara-32)*5)/9;
 
-    printf("In Celsius --> %.2f", cel);    
+    printf("In Celsius -> %.2f", cel);    
 
     return 0;
 }
