@@ -16,7 +16,7 @@ int main()
     {
         if (maxNum%num1 == 0 && maxNum%num2 == 0)
         {
-            printf("LCM is %d", maxNum);
+            printf("LCM is %d.", maxNum);
             break;
         }
         ++maxNum;
