@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 
 int main()
 {
@@ -21,6 +20,6 @@ int main()
     else
         printf("%d is a prime number.", num);
 
-    getch();
+
     return 0;
 }
