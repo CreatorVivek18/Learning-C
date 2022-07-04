@@ -17,11 +17,11 @@ int main()
 
     if (n==rev)
     {
-        printf("Pallindrome");
+        printf("Pallindrome.");
     }
     
     else{
-        printf("Not Pallindrome");
+        printf("Not Pallindrome.");
     }
 
     return 0;
