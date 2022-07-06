@@ -6,7 +6,7 @@ int main(){
     int i, len, temp=0;
     int flag = 0;
     
-    printf("Enter a word:");
+    printf("Enter a word --> ");
     scanf("%s", str);
     
     len = strlen(str);
