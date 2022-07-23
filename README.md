@@ -1,6 +1,6 @@
 
 # Learning C
 
-This repo mainly contains some basic codes of C language.
-This will be updated daily...
+This repo contains some basic codes of C language.
+This will be almost updated daily...(hopefully)
 
